@@ -1,0 +1,8 @@
+#formVendedor .form-control {
+    width: 150px; /* Ajuste o valor conforme necessário */
+  }
+  
+  /* Estilo para o campo de Valor da Venda */
+  #formValorVenda .form-control {
+    width: 150px; /* Ajuste o valor conforme necessário */
+  }
